@@ -15,8 +15,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Home"
-   link: "/DaoNguyen/"
+
  - name: "Resume"
    link: "CV.pdf"
  - name: "Contact"
