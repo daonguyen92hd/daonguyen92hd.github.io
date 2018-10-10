@@ -6,9 +6,11 @@ layout: default
 
 <img class="profile-picture" src="daonguyen.jpg">
 
-My name is Dao. I graduated from the National Economic University with an economic degree. My major was socio-economic statistics. But now, thanks to AAS scholarship, I have a chance to continue my master course at ANU (Australian National University). And currently, I am preparing to finish my first semester of this course. Before studying in Australia, I had three years experience working as a quantitative researcher at the Center for Agricultural Policy (CAP)
-
-
+<img class="profile-picture" src="daonguyen.jpg"> | NGUYEN DINH DAO
+                                                    * Master student in the International and Development Economics*
+                                                    Crawford School of Public Policy
+                                                    Australian National University
+                                                   
 ## ABOUT CAP
 
 The Centre for Agriculture Policy (CAP) of the Institute of Policy and Strategy for Agriculture and Rural development (IPSARD) was established on September 29th 2006 in accordance with Decision 2795/QĐ-BNN-TCCB of MARD. CAP is a public research agency that specializes in science and technology, operates in accordance with the mechanisms of autonomy, self - responsibility and has its own legal status with independent stamp and account.
