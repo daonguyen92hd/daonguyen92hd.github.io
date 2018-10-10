@@ -1,14 +1,14 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Dao Nguyen Dinh
+url: "https://daonguyendinh.com"
+baseurl: "/daonguyen92hd.github.io"
 
 markdown: kramdown
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/daonguyen92hd"
+footer_text: "Page design by Dao Nguyen Dinh"
 
 sass:
     style: compressed
