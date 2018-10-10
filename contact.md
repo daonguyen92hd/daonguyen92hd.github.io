@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: dao.nguyen@cap.gov.vn(mailto:dao.nguyen@cap.gov.vn)
+* Email: dao.nguyen@cap.gov.vn
 
 * Phone: [+841667297033](tel:+841667297033)
 
@@ -21,6 +21,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](# https://www.facebook.com/daoktqd.tk)
+1. [Facebook](https://www.facebook.com/daoktqd.tk)
 2. [Twitter](#)
 3. [Google+](#)
