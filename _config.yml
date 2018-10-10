@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/Dao Nguyen Dinh/"
  - name: "Resume"
    link: "CV.pdf"
  - name: "Contact"
