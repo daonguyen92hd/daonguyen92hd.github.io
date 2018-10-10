@@ -48,6 +48,11 @@ Year | Organization | Award name
 * Assoc. Prof., PhD Tran Thi Kim Thu, Former Head of The Faculty of Statistics, NEU, Email: kimthutk@gmail.com, Phone: (+84) 983 321 859
 * PhD Dang Kim Khoi, Director of Center for Agricultural Policy, Email: khoi.dang@cap.gov.vn, Phone: (+84) 933 556 611
 
+## AUS'S LIFE
+ <img class="aus" src="aus1.jpg"> | <img class="aus" src="aus2.jpg"> |<img class="aus" src="aus3.jpg">
+-----|--------|--------
+<img class="aus" src="aus4.jpg"> | <img class="aus" src="aus5.jpg"> |<img class="aus" src="aus6.jpg">
+
 ## SIGNATURE
 <img class="sign" src="untitled.png">
 
