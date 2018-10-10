@@ -15,9 +15,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/Dao Nguyen Dinh/"
  - name: "Resume"
    link: "CV.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Australia's life"
+   link: "aus"
