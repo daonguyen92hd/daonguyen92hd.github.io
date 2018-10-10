@@ -19,9 +19,9 @@ Position held: Researcher in Economic Modeling and Policy Analysis Division
 
 Year | School
 -----|--------
-9/2007-7/2010 | Encouraged prize at the University Contest of student’s research
+9/2007-7/2010 | Upper Secondary Degree, Nguyen Trai Specialized High School,                                                             Hai Duong Province
 9/2010-5/2014 | Bachelor of Economics, National Economics University, Ha Noi
-6/2018-current| The Crawford school, ANU
+6/2018-current| The Crawford school, ANU, Canberra, Australia
 
 
 ## PUBLICATION
